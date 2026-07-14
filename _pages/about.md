@@ -28,11 +28,13 @@ Conference Presentations
 
 Main Projects
 ======
-1. <strong>RiceMind.</strong> Developed an AI-ready rice gene-trait association knowledge base integrating curated genomic resources, NLP-mined literature evidence, MCP access, and BLAST-based sequence exploration.
+1. <strong>scGATES.</strong> Designed and implemented a cross-modal alignment algorithm between single-cell transcriptomes and literature text, and conducted comparative experiments with standard baseline models and downstream task evaluations.
 
-2. <strong>scK-Drive.</strong> Integrated semantic text information with cancer single-cell data to enhance cancer semantic recognition and interpretability in single-cell analysis.
+2. <strong>RiceMind.</strong> Developed an AI-ready rice gene-trait association knowledge base integrating curated genomic resources, NLP-mined literature evidence, MCP access, and BLAST-based sequence exploration.
 
-3. <strong>Cancer Alterome.</strong> Built a literature-mined resource of cancer regulatory events caused by genetic alterations, integrating mutation evidence with normalized biological processes and phenotypes.
+3. <strong>scK-Drive.</strong> Integrated semantic text information with cancer single-cell data to enhance cancer semantic recognition and interpretability in single-cell analysis.
+
+4. <strong>Cancer-Alterome.</strong> Built a literature-mined resource of cancer regulatory events caused by genetic alterations, integrating mutation evidence with normalized biological processes and phenotypes.
 
 Internships
 ======
